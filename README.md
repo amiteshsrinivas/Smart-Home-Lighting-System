@@ -1,16 +1,47 @@
-# iotec
+# Smart Home Lighting System
 
-A new Flutter project.
+A Flutter-based Smart Home Lighting System that allows users to control the lighting in their home. This app provides a user-friendly interface to turn lights on or off, set timers for automatic lighting control, and manage user authentication. The system is integrated with Firebase for real-time data synchronization.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Authentication**: 
+  - Login page for secure access.
+  - Add and manage multiple users.
+  - Logout functionality.
 
-A few resources to get you started if this is your first Flutter project:
+- **Light Control**:
+  - Turn lights on and off from the app.
+  - Set timers to automatically turn lights on or off at specified times.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Real-Time Updates**:
+  - Integration with Firebase for real-time database updates.
+  - Changes made by one user are instantly reflected for others.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Login Screen](Screenshots/loginscreen.jpeg)
+*Login Screen*
+
+![Home Screen](Screenshots/welcomepage.jpeg)
+*Home Screen*
+
+![Select room](Screenshots/selectroom.jpeg)
+*Select Room Screen*
+
+![Bedroom](Screenshots/bedroom.jpeg)
+*Bedroom Screen*
+
+![Kitchen](Screenshots/kitchen.jpeg)
+*Kitchen Screen*
+
+![Living Room](Screenshots/livingroom.jpeg)
+*Living Room Screen*
+
+![Set Timer](Screenshots/timer.jpeg)
+*Set Timer Screen*
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/smart-home-lighting-system.git
