@@ -20,24 +20,31 @@ A Flutter-based Smart Home Lighting System that allows users to control the ligh
 ## Screenshots
 
 ![Login Screen](Screenshots/loginscreen.jpg)
+
 *Login Screen*
 
 ![Home Screen](Screenshots/welcomepage.jpg)
+
 *Home Screen*
 
 ![Select room](Screenshots/selectroom.jpg)
+
 *Select Room Screen*
 
 ![Bedroom](Screenshots/bedroom.jpg)
+
 *Bedroom Screen*
 
 ![Kitchen](Screenshots/kitchen.jpg)
+
 *Kitchen Screen*
 
 ![Living Room](Screenshots/livingroom.jpg)
+
 *Living Room Screen*
 
 ![Set Timer](Screenshots/timer.jpg)
+
 *Set Timer Screen*
 
 ## Installation
