@@ -51,11 +51,11 @@ A Flutter-based Smart Home Lighting System that allows users to control the ligh
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/smart-home-lighting-system.git
+   git clone https://github.com/amiteshsrinivas/Smart-Home-Lighting-System.git
 
 2. **Navigate to the project directory**:
     ```bash
-    cd smart-home-lighting-system
+    cd Smart-Home-Lighting-System
 
 3. **Install dependencies**:
     ```bash
